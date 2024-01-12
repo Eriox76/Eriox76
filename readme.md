@@ -2,7 +2,7 @@
 
 ## dev skills : 
 
-- VS Code
-- HTML
-- CSS
-- JavaScript
+- VS Code 💻
+- HTML 👀
+- CSS 👓
+- JavaScript 🖥️
